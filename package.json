@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": ["discord", "bot", "discord.js"],
-  "author": "Ahmed",
+  "author": "efe",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.14.1",
